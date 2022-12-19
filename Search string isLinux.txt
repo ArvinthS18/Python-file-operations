@@ -1,0 +1,19 @@
+------------------------------$$$ File Details $$$------------------------------
+File Name: mongod.log
+File Extension: log
+String to search: Linux
+Case type(Upper/Lower) lowercase
+Total Number of line in the file is: 13654
+Total ocuurence in the file is: 6
+string exists in file Line Number:13654
+2022-07-05T13:06:44.060-0700 I NETWORK  [conn92] received client metadata from 127.0.0.1:36246 conn92: { driver: { name: "mongo-go-driver", version: "v1.8.2" }, os: { type: "linux", architecture: "amd64" }, platform: "go1.13" }
+string exists in file Line Number:13654
+2022-07-05T13:06:44.061-0700 I NETWORK  [conn91] received client metadata from 127.0.0.1:36244 conn91: { driver: { name: "mongo-go-driver", version: "v1.8.2" }, os: { type: "linux", architecture: "amd64" }, platform: "go1.13" }
+string exists in file Line Number:13654
+2022-07-05T13:06:44.071-0700 I NETWORK  [conn93] received client metadata from 127.0.0.1:36248 conn93: { driver: { name: "mongo-go-driver", version: "v1.8.2" }, os: { type: "linux", architecture: "amd64" }, platform: "go1.13" }
+string exists in file Line Number:13654
+2022-07-05T23:00:04.522-0700 I NETWORK  [conn192] received client metadata from 127.0.0.1:49306 conn192: { driver: { name: "mongo-go-driver", version: "v1.8.2" }, os: { type: "linux", architecture: "amd64" }, platform: "go1.13" }
+string exists in file Line Number:13654
+2022-07-05T23:00:04.522-0700 I NETWORK  [conn191] received client metadata from 127.0.0.1:49304 conn191: { driver: { name: "mongo-go-driver", version: "v1.8.2" }, os: { type: "linux", architecture: "amd64" }, platform: "go1.13" }
+string exists in file Line Number:13654
+2022-07-05T23:00:04.523-0700 I NETWORK  [conn193] received client metadata from 127.0.0.1:49308 conn193: { driver: { name: "mongo-go-driver", version: "v1.8.2" }, os: { type: "linux", architecture: "amd64" }, platform: "go1.13" }
